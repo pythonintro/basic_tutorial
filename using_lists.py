@@ -14,7 +14,7 @@ print(wordlist[0])
 
 #Print all words:
 print(wordlist[0], wordlist[1], wordlist[2])
->>> "hello Sir how are you doing?"
+>>> "Hello Sir how are you doing?"
 
 #Example 3:
 # lists can contain several different datatypes, here we have both integer and string datatypes in the same list.
