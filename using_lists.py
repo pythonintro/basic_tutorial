@@ -1,3 +1,9 @@
+# License: GPLv3
+# Source: https://www.pythonintro.com
+#
+# Author: pythonintro.com
+#
+#
 #Example 1:
 # Create a list of numbers (integers in this case):
 numberslist = [1, 2, 3, 4, 5]
