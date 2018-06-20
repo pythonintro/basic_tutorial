@@ -1,4 +1,4 @@
-# Create a list of numbers:
+# Create a list of numbers (integers in this case):
 numberslist = [1, 2, 3, 4, 5]
 #Print first item in numberslist: (python counts 0 as the first item.)
 print(numberslist[0])
@@ -6,7 +6,7 @@ print(numberslist[0])
 
 
 
-# Create a list of words:
+# Create a list of words (strings):
 wordlist = ["hello", "Sir", "how are you doing?"]
 print(wordlist[0])
 >>> "hello"
@@ -16,7 +16,7 @@ print(wordlist[0], wordlist[1], wordlist[2])
 >>> hello Sir how are you doing?
 
 	
-# lists can contain several different datatypes:
+# lists can contain several different datatypes, here we have both integer and string datatypes in the same list.
 my_list = [1,2,3, "Hello Sir!"]
 print(my_list[0], my_list[3])
 >>> 1 "Hello Sir!"
