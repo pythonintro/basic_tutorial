@@ -19,12 +19,12 @@ print(int(end-start))
 import time
 
 # Save start timestamp to a variable named start. (Unix timestamp)
-def take_time(sleep_time):
+def take_time():
     start = time.time()
     
     # Do something!
     o = 1
-    for i in range(10)
+    for i in range(10):
         o *= i
         time.sleep(0.2)
     
@@ -32,4 +32,4 @@ def take_time(sleep_time):
     end = time.time()
 
     #Print time difference between end and start, rounded to integer to skip all the decimals.
-    print("It took", int(end-start, 2), "seconds to run our loop")
+    print("It took", int(end-start), "seconds to run our loop")
