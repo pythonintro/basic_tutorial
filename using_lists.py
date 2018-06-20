@@ -7,10 +7,13 @@ print(numberslist[0])
 
 
 # Create a list of words:
-wordlist = ["hello", "sir", "how are you doing?"]
+wordlist = ["hello", "Sir", "how are you doing?"]
 print(wordlist[0])
 >>> "hello"
 
+#Print all words:
+print(wordlist[0], wordlist[1], wordlist[2])
+>>> hello Sir how are you doing?
 
 	
 # lists can contain several different datatypes:
